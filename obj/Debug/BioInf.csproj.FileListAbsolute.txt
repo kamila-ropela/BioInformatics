@@ -1,0 +1,14 @@
+C:\Users\Kamila\source\repos\BioInf\BioInf\bin\Debug\BioInf.exe.config
+C:\Users\Kamila\source\repos\BioInf\BioInf\bin\Debug\BioInf.exe
+C:\Users\Kamila\source\repos\BioInf\BioInf\bin\Debug\BioInf.pdb
+C:\Users\Kamila\source\repos\BioInf\BioInf\obj\Debug\BioInf.csproj.CoreCompileInputs.cache
+C:\Users\Kamila\source\repos\BioInf\BioInf\obj\Debug\BioInf.exe
+C:\Users\Kamila\source\repos\BioInf\BioInf\obj\Debug\BioInf.pdb
+C:\Users\Kamila\source\repos\BioInf\BioInf\obj\Debug\BioInf.csprojResolveAssemblyReference.cache
+C:\Users\karo.ITASLAN\Desktop\BioInf\BioInf\bin\Debug\BioInf.exe.config
+C:\Users\karo.ITASLAN\Desktop\BioInf\BioInf\bin\Debug\BioInf.exe
+C:\Users\karo.ITASLAN\Desktop\BioInf\BioInf\bin\Debug\BioInf.pdb
+C:\Users\karo.ITASLAN\Desktop\BioInf\BioInf\obj\Debug\BioInf.csprojResolveAssemblyReference.cache
+C:\Users\karo.ITASLAN\Desktop\BioInf\BioInf\obj\Debug\BioInf.csproj.CoreCompileInputs.cache
+C:\Users\karo.ITASLAN\Desktop\BioInf\BioInf\obj\Debug\BioInf.exe
+C:\Users\karo.ITASLAN\Desktop\BioInf\BioInf\obj\Debug\BioInf.pdb
